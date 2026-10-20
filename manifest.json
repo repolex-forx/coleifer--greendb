@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "coleifer",
+  "repo": "greendb",
+  "versions": [
+    {
+      "commit": "341ab7d1969341e29a96abf2db8b6869fbf284bc",
+      "parsed_at": "2026-10-20T20:52:52.710314+00:00",
+      "tag": "0.2.6",
+      "filetree": "filetree/341ab7d1969341e29a96abf2db8b6869fbf284bc.nq.gz",
+      "blobs": [
+        "blob/39069aff58852bb50c547af63cc649ab88ddae4d.nq.gz",
+        "blob/0f3d5449073ff7c4c1ef2d7581337fed3db488a2.nq.gz",
+        "blob/b8e57cdc93438e3d24a7f34448ea4051025aabd2.nq.gz",
+        "blob/9982eca6a327faf401575bf8b9cc05a660c5c4e8.nq.gz",
+        "blob/75e594302f816f924974d7df944cdd3ebf04242d.nq.gz",
+        "blob/8e11faaa4287bb5c6cd375606e44a32face08616.nq.gz",
+        "blob/50481c4becf8d0e32ef2fc20d21027c3861abf19.nq.gz",
+        "blob/ba8cf130be332940d1121f9ca278bfd833c457df.nq.gz",
+        "blob/606849326a4002007fd42060b51e69a19c18675c.nq.gz",
+        "blob/7da22f1bdc815e2fe01f93f068362eebeec8c55b.nq.gz",
+        "blob/b725d2d6fc00118f560879b97d61d39996da4e29.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz"
+}
