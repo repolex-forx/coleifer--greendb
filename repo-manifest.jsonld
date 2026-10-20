@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/coleifer/greendb/commit/341ab7d1969341e29a96abf2db8b6869fbf284bc",
       "git:hexsha": "341ab7d1969341e29a96abf2db8b6869fbf284bc",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.2.6"
     },
     {
