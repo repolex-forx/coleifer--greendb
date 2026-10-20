@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/coleifer/greendb/commit/341ab7d1969341e29a96abf2db8b6869fbf284bc",
       "git:hexsha": "341ab7d1969341e29a96abf2db8b6869fbf284bc",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.2.6"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.2.6",
+      "repolex:parsedAt": "2026-10-20T20:54:54.038627+00:00"
     },
     {
       "@id": "https://repolex.ai/r/coleifer/greendb/commit/f157df2c87dba414bf01ba83215f5f0cf8a4531b",
