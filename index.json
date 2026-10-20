@@ -1,0 +1,11 @@
+{
+  "org": "coleifer",
+  "repo": "greendb",
+  "versions": [
+    {
+      "commit": "341ab7d1969341e29a96abf2db8b6869fbf284bc",
+      "tag": "0.2.6",
+      "parsed_at": "2026-10-20T20:54:54.039219+00:00"
+    }
+  ]
+}
